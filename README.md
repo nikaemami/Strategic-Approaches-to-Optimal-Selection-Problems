@@ -15,3 +15,5 @@ The strategy examined involves rejecting the first `k` candidates and then selec
 2. **Variation**: Setting `k` to the Napierian number (Euler's number, `e`), we explore candidate numbers ranging from `3` to `100` and analyze the probabilities for different `k` values.
 
    <img src="images/2.png" width="400"/>
+
+   Finding the best value of k also using mathematical equations: $x = \frac{1}{e}$
